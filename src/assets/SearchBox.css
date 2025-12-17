@@ -1,0 +1,56 @@
+.search-box2 {
+  border-radius: 50px;
+  background: #fff;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.06);
+  padding: 4px 8px;
+}
+
+.react-select-container {
+  width: 100%;
+}
+
+.react-select__control {
+  border-radius: 50px !important;
+  border: none !important;
+  box-shadow: none !important;
+  min-height: 52px; /* match button height */
+  padding: 2px 6px;
+  font-size: 15px;
+}
+
+.react-select__value-container {
+  padding: 0 12px;
+}
+
+.react-select__placeholder {
+  color: #999;
+  font-size: 14px;
+}
+
+.react-select__single-value {
+  font-weight: 600;
+  color: #333;
+}
+
+/* Custom dropdown arrow */
+.react-select__indicators {
+  color: #666;
+}
+.react-select__indicator-separator {
+  display: none;
+}
+
+.search-btn2 {
+  border-radius: 50px;
+  padding: 12px 30px;
+  background: #3b6ef5;
+  color: #fff;
+  font-weight: 500;
+  border: none;
+  margin-left: 10px;
+  transition: 0.3s;
+}
+
+.search-btn2:hover {
+  background: #345cdd;
+}

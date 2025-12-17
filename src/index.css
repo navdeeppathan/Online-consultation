@@ -1,0 +1,7 @@
+.custom-placeholder::placeholder {
+  color: #9a9fa4;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
